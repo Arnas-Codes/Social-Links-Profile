@@ -2,6 +2,7 @@
   "name": "social-links-profile",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://arnas-codes.github.io/Social-Links-Profile/",
   "type": "module",
   "scripts": {
     "dev": "vite",
