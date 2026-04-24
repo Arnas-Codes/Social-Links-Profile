@@ -1,5 +1,5 @@
 @import "tailwindcss";
-
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
 
 @theme{
   --color-Green: hsl(75, 94%, 57%);
@@ -8,5 +8,3 @@
   --color-Grey-900: hsl(0, 0%, 8%);
   --font-inter: "Inter", sans-serif;
 }
-
-@import url('https://googleapis.com');

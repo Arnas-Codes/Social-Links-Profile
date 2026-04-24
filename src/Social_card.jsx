@@ -1,11 +1,12 @@
 import React from "react";
+import avatar from "./assets/avatar-jessica.jpeg";
 
 const SocialCard = () => {
   return (
     <div className="flex flex-col items-center text-center bg-Grey-800 w-xs m-auto py-6 gap-6 rounded-xl">
       <img
         className="w-16 rounded-full"
-        src="src/assets/avatar-jessica.jpeg"
+        src={avatar}
         alt="Profile_img"
       />
       <div>
